@@ -1,0 +1,12 @@
+{
+  "name": "ledger-slice",
+  "description": "Vertical-slice helper for the Bonus Ledger scaffold (NestJS + Prisma per bounded context): database step, tests-first build, ship checks, migration rollback, and guards for context boundaries.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Denys Mokhrin"
+  },
+  "homepage": "https://github.com/denys-mokhrin/ledger-slice",
+  "repository": "https://github.com/denys-mokhrin/ledger-slice",
+  "keywords": ["nestjs", "prisma", "vertical-slice", "bounded-context", "tdd"],
+  "license": "MIT"
+}
